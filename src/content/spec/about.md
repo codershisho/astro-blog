@@ -1,8 +1,8 @@
 # About
 
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the site for [ブログリポジトリ](https://github.com/codershisho/astro-blog).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="codershisho/astro-blog"}
 
 > ### Powerd by
 >
